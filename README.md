@@ -18,4 +18,4 @@ Repository untuk belajar dasar-dasar React dari nol!
 ## 🔧 Cara Mulai
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/belajar-react.git
+   git clone https://github.com/rendayy/belajar-react.git
