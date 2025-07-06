@@ -27,19 +27,11 @@ npm install
 npm run dev  # Untuk project Vite
 
 # 4.📂 Struktur Project
-belajar-react/
-├── node_modules/     # Dependencies
-├── public/           # Assets static (logo, favicon)
-├── src/
-│   ├── assets/       # Gambar/font
-│   ├── components/   # Komponen reusable
-│   ├── App.jsx       # Komponen utama
-│   └── main.jsx      # Entry point
-├── .gitignore        # File yang diabaikan Git
-├── package.json      # Dependencies & scripts
-└── vite.config.js    # Konfigurasi Vite
+![Tampilan Homepage](./docs/strukturP.png)
+### Struktur Komponen
+<img src="./docs/component-structure.jpg" width="500">
 
-🔧 Script Penting
+# 5.🔧 Script Penting
 Perintah	Kegunaan
 npm run dev	Jalankan development server
 npm run build	Build untuk production
