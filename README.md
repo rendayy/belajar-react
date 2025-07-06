@@ -29,7 +29,7 @@ npm run dev  # Untuk project Vite
 # 4.📂 Struktur Project
 ![Tampilan Homepage](./docs/strukturP.png)
 ### Struktur Komponen
-<img src="./docs/component-structure.jpg" width="500">
+<img src="./docs/strukturP.png" width="500">
 
 # 5.🔧 Script Penting
 Perintah	Kegunaan
