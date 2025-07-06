@@ -19,3 +19,29 @@ Repository untuk belajar dasar-dasar React dari nol!
 1. Clone repository ini:
    ```bash
    git clone https://github.com/rendayy/belajar-react.git
+
+# 2. Install dependencies
+npm install
+
+# 3. Jalankan development server
+npm run dev  # Untuk project Vite
+
+📂 Struktur Project
+belajar-react/
+├── node_modules/     # Dependencies
+├── public/           # Assets static (logo, favicon)
+├── src/
+│   ├── assets/       # Gambar/font
+│   ├── components/   # Komponen reusable
+│   ├── App.jsx       # Komponen utama
+│   └── main.jsx      # Entry point
+├── .gitignore        # File yang diabaikan Git
+├── package.json      # Dependencies & scripts
+└── vite.config.js    # Konfigurasi Vite
+
+🔧 Script Penting
+Perintah	Kegunaan
+npm run dev	Jalankan development server
+npm run build	Build untuk production
+npm run preview	Preview build production lokal
+npm test	Jalankan test
