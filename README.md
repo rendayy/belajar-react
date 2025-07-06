@@ -26,7 +26,7 @@ npm install
 # 3. Jalankan development server
 npm run dev  # Untuk project Vite
 
-📂 Struktur Project
+# 4.📂 Struktur Project
 belajar-react/
 ├── node_modules/     # Dependencies
 ├── public/           # Assets static (logo, favicon)
