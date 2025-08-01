@@ -26,12 +26,7 @@ npm install
 # 3. Jalankan development server
 npm run dev  # Untuk project Vite
 
-# 4.📂 Struktur Project
-![Tampilan Homepage](./docs/strukturP.png)
-### Struktur Komponen
-<img src="./docs/strukturP.png" width="500">
-
-# 5.🔧 Script Penting
+# 4.🔧 Script Penting
 Perintah	Kegunaan
 npm run dev	Jalankan development server
 npm run build	Build untuk production
