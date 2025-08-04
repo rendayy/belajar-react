@@ -31,4 +31,4 @@ Perintah	Kegunaan
 npm run dev	Jalankan development server
 npm run build	Build untuk production
 npm run preview	Preview build production lokal
-npm test	Jalankan test
+npm test	Jalankan testing
