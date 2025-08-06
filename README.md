@@ -15,12 +15,12 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Repository untuk belajar dasar-dasar React dari nol!
 
-## 🔧 Cara Mulai
+### 🔧 Cara Mulai
 1. Clone repository ini:
    ```bash
    git clone https://github.com/rendayy/belajar-react.git
 
-## 2. Install dependencies
+### 2. Install dependencies
 npm install
 
 ## 3. Jalankan development server
