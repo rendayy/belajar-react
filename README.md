@@ -26,7 +26,7 @@ npm install
 ### 3. Jalankan development server
 npm run dev  # Untuk project Vite
 
-### 4.🔧 Script Penting
+### 4.🔧 Script Pentingg
 Perintah	Kegunaan
 npm run dev	Jalankan development server
 npm run build	Build untuk production
